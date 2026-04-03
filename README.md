@@ -1,4 +1,5 @@
 # NZ Grocery Price Analysis
+This project demonstrates an end-to-end data analysis workflow, from data cleaning and SQL-based analysis to interactive dashboard development for business insights.
 
 ## Problem Statement
 
@@ -57,12 +58,11 @@ This project analyses historical grocery price data to identify long-term trends
 
 nz-grocery-price-analysis/
 │
-├── data/              # Raw and cleaned datasets  
-├── notebooks/         # Python EDA and data cleaning  
-├── sql/               # SQL analysis queries  
-├── dashboard/         # Power BI dashboard  
-├── README.md  
-
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Python EDA and data cleaning
+├── sql/ # SQL analysis queries
+├── dashboard/ # Power BI dashboard
+├── README.md
 ---
 
 ## How to Use
