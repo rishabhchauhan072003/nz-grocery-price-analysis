@@ -44,13 +44,13 @@ This project analyses historical grocery price data to identify long-term trends
 
 ## Key Insights
 
-- Grocery food shows the highest overall price index, indicating strong long-term inflation pressure in packaged food items.
+- Grocery food shows the highest sustained price index, indicating long-term inflation pressure in packaged food items rather than short-term fluctuations.
 
-- Fruit and vegetables exhibit higher short-term fluctuations, making them more volatile compared to other categories. This explains why consumers often feel price changes more strongly in these items.
+- Fruit and vegetables exhibit higher volatility, meaning frequent price swings. This contributes more to consumer perception of rising grocery costs compared to steady categories.
 
-- Meat, poultry, and fish demonstrate significant long-term growth, suggesting that protein-based food categories contribute heavily to rising grocery costs.
+- Meat, poultry, and fish demonstrate strong long-term growth, suggesting that protein-based food categories are key drivers of overall grocery inflation.
 
-- Categories with frequent fluctuations can impact consumer perception of price increases more than categories with steady growth.
+- Categories with high volatility impact household budgeting more significantly, even if their average price index is lower than other categories.
 
 ---
 
