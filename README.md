@@ -1,5 +1,11 @@
 # NZ Grocery Price Analysis
 This project demonstrates an end-to-end data analysis workflow, from data cleaning and SQL-based analysis to interactive dashboard development for business insights.
+## Dashboard Preview
+<img width="1165" height="684" alt="dashboard_preview" src="https://github.com/user-attachments/assets/d76ab591-1bef-4673-bfa0-d42f67ea1344" />
+
+
+
+This project demonstrates...
 
 ## Problem Statement
 
